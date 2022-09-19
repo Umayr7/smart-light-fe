@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73799546445",
+    "firebase_url": "https://smart-light-19386-default-rtdb.firebaseio.com",
+    "project_id": "smart-light-19386",
+    "storage_bucket": "smart-light-19386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73799546445:android:a60091be9d6eb84937ce04",
+        "android_client_info": {
+          "package_name": "com.example.smart_light_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73799546445-dujh8qes46psd80osbvf59rpd047kor8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uyuU_RFgBxPuxsPn1eRXPr-U_eGBpRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73799546445-dujh8qes46psd80osbvf59rpd047kor8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
